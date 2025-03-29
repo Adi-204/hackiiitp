@@ -46,7 +46,7 @@ NutriPlanner is your ultimate companion on the journey to a healthier lifestyle 
 
 To run this project, you will need to add the following environment variables to your .env file. We have provided you .env.example
 
-##Demo
+## Demo
 https://nutriplan-ems7.onrender.com
 
 
